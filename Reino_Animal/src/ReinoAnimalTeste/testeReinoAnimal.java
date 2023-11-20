@@ -20,7 +20,7 @@ public class testeReinoAnimal {
 
 		System.out.println("------------------");
 
-		Terrestre terrestre = new Terrestre("Felis catus", true, "fêmea", "2", "Ásia");
+		Terrestre terrestre = new Terrestre("Felis catus", true, "fêmea", "2", "Asia");
 		terrestre.perfil();
 		terrestre.mover();
 		terrestre.comer();
